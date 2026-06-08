@@ -2,8 +2,8 @@
 
 | Notebook | Description | Link |
 |----------|-------------|------|
-| Phase 1 - EDA | Data analysis, disease distribution, co-occurrence heatmap | [Kaggle](https://kaggle.com/tirupatinagesh) |
-| Phase 2 - Training | DenseNet121 training, Grad-CAM, LLM reports | [Kaggle](https://kaggle.com/tirupatinagesh) |
+| Phase 1 - EDA | Data analysis, disease distribution, co-occurrence heatmap | [Kaggle]((https://kaggle.com/tirupatinagesh/chestxray-eda-phase1)) |
+| Phase 2 - Training | DenseNet121 training, Grad-CAM, LLM reports | [Kaggle]((https://kaggle.com/tirupatinagesh/chestxray-densenet121-phase2)) |
 
 ## 🚀 Key Features
 
